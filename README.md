@@ -1,7 +1,3 @@
-## Mini-Project
-
-### Mini-Project list
-
 ### Codestats Project-1
 
 ### Codestats Project-2
