@@ -5,7 +5,7 @@
 
 ## DATA
 
-
+* [Kaggle review data]( https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
 ## MUST
 
