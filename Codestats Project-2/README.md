@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/82854823/132245031-14a6e8cd-1371-43b2-b1e8-e43112e90d80.png)
 
 ## Must
 - 최소 2개 이상의 모델을 만들어서 validation 점수를 보고
