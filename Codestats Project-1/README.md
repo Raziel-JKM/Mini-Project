@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/82854823/132244805-08e26f42-54b6-4f0a-bf2d-81c0f8f93afa.png)
 ## Data Description
 [vgames2](https://ds-lecture-data.s3.ap-northeast-2.amazonaws.com/datasets/vgames2.csv)
 - Name : 게임의 이름입니다.
