@@ -1,6 +1,5 @@
 ## Data Description
-https://ds-lecture-data.s3.ap-northeast-2.amazonaws.com/datasets/vgames2.csv
-
+[vgames2](https://ds-lecture-data.s3.ap-northeast-2.amazonaws.com/datasets/vgames2.csv)
 - Name : 게임의 이름입니다.
 - Platform : 게임이 지원되는 플랫폼의 이름입니다.
 - Year : 게임이 출시된 연도입니다.
