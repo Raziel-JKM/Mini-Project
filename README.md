@@ -1,10 +1,10 @@
-### [Codestats Project-1](https://github.com/Raziel-JKM/Mini-Project/tree/main/Codestats%20Project-1)
+### [Codestats Project-1](https://github.com/Raziel-JKM/Mini-Project/tree/main/Codestats%20Project-1) - 게임데이터
 
-### Codestats Project-2
+### Codestats Project-2 - 신용위험분석
 
-### Codestats Project-3
+### Codestats Project-3 - Flask를 이용한 웹서비스 
 
-### [Codestats Project-4](https://github.com/Raziel-JKM/Mini-Project/tree/main/Codestats%20Project-4) -상품 리뷰 분석을 통한 추천 여부 예측
+### [Codestats Project-4](https://github.com/Raziel-JKM/Mini-Project/tree/main/Codestats%20Project-4) - 상품 리뷰 분석을 통한 추천 여부 예측
 
 ### Codestats Project-5
 
