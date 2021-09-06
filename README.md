@@ -1,4 +1,4 @@
-### Codestats Project-1
+### [Codestats Project-1](https://github.com/Raziel-JKM/Mini-Project/tree/main/Codestats%20Project-1)
 
 ### Codestats Project-2
 
