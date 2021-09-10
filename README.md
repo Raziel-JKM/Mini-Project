@@ -5,7 +5,7 @@
 
 * ### [Section 3](https://github.com/Raziel-JKM/Mini-Project/tree/main/Codestats%20Project-3) - Deploying Web Services with Flask
 
-* ### [Section 4](https://github.com/Raziel-JKM/Mini-Project/tree/main/Codestats%20Project-4) - Predict Recommendations Through Product Review Analysis
+* ### [Section 4](https://github.com/Raziel-JKM/Mini-Project/tree/main/Codestats%20Project-4) - Predict Recommendations through Product Review Analysis
 
 * ### Section 5
 
