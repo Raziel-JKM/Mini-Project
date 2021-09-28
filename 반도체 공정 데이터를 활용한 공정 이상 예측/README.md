@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/82854823/135168977-813ca642-1140-4431-b374-7bf8094b67d0.png)
+
 # 프로젝트 목표
 
 반도체 공정 데이터 분석을 통하여 공정 이상을 예측하는 분류 모델 수행
