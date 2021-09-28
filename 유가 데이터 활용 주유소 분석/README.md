@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/82854823/135169335-2e58b32f-2330-4571-bc77-f6f7aa1f1904.png)
+
 # [유가 데이터 활용 주유소 분석](https://github.com/Raziel-JKM/Kaggle/blob/main/%EC%9C%A0%EA%B0%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%A3%BC%EC%9C%A0%EC%86%8C%20%EB%B6%84%EC%84%9D/%EC%9C%A0%EA%B0%80_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.ipynb)
 
 # 프로젝트 목차
