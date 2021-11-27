@@ -46,7 +46,7 @@
 * ### EX19
 * ### EX20
 
-# ◇ Going Deep ◇ 
+# ◇ Going Deeper ◇ 
 
 * ### [EX01]
 * ### [EX01]
