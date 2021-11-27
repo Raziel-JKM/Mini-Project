@@ -46,7 +46,7 @@
 * ### EX19
 * ### EX20
 
-# ◇ Going Deeper ◇ 
+# ◇ Going Deeper ◇ - CV focus
 
 * ### [EX01]
 * ### [EX01]
