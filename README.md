@@ -25,19 +25,19 @@
 
 # ◇ AIFFEL Project ◇ 
 
-* ### [EX01](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX01)
-* ### [EX02](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX02)
-* ### [EX03](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX03)
-* ### [EX04](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX04)
-* ### [EX05](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX05)
-* ### [EX06](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX06)
-* ### [EX07](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX07)
-* ### [EX08](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX08)
-* ### [EX09](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX09)
-* ### [EX10](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX10)
-* ### [EX11](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX11)
-* ### [EX12](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX12)
-* ### [EX13](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX13)
+* ### [EX01](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX01) - Rock Scissor Paper
+* ### [EX02](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX02) - Breast Cancer / Digits / Wine
+* ### [EX03](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX03) - Face Sticker
+* ### [EX04](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX04) - lyricist
+* ### [EX05](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX05) - Find
+* ### [EX06](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX06) - 2019-ml-month-2nd-baseline.ipynb
+* ### [EX07](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX07) - Movie Review
+* ### [EX08](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX08) - Portrait
+* ### [EX09](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX09) - Movielens
+* ### [EX10](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX10) - News Summarization
+* ### [EX11](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX11) - Pneumoni
+* ### [EX12](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX12) - SBR
+* ### [EX13](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX13) - DCGAN
 * ### EX14
 * ### EX15
 * ### EX16
