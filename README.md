@@ -36,12 +36,12 @@
 * ### [EX11](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX11) - Handling medical image data
 * ### [EX12](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX12) - SBR
 * ### [EX13](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX13) - DCGAN
-* ### [EX14](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX14) - 
-* ### [EX15](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX15) - 
-* ### [EX16](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX16) - 
-* ### [EX17](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX17) - 
-* ### [EX18](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX18) - 
-* ### [EX19](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX19) - 
+* ### [EX14](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX14) - ARIMA Model
+* ### [EX15](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX15) - Transformer
+* ### [EX16](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX16) - SRCNN, SRGAN
+* ### [EX17](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX17) - Bert
+* ### [EX18](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX18) - OCR
+* ### [EX19](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX19) - cGAN & Pix2Pix
 
 
 
@@ -50,8 +50,8 @@
 * ### [GD01](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/01) - Backbone network structure
 * ### [GD02](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/02) - Data Augmentation
 * ### [GD03](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/03) - Class Activation Map
-* ### [GD04](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/04)
+* ### [GD04](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/04) - Object Detection
 * ### [GD05](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/05) - Segmentation
-* ### [GD06](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/06) - 
-* ### [GD07](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/07) - Object Detection
+* ### [GD06](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/06) - Overview of OCR technology
+* ### [GD07](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/07) - 
 * ### [GD08](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/08)
