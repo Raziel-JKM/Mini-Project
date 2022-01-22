@@ -47,11 +47,11 @@
 
 # ◇ Going Deeper ◇ - CV focus
 
-* ### [GD01](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/01)
-* ### [GD02](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/02)
-* ### [GD03](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/03)
+* ### [GD01](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/01) - Backbone network structure
+* ### [GD02](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/02) - Data Augmentation
+* ### [GD03](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/03) - Class Activation Map
 * ### [GD04](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/04)
-* ### [GD05](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/05)
-* ### [GD06](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/06)
-* ### [GD07](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/07)
+* ### [GD05](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/05) - Segmentation
+* ### [GD06](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/06) - 
+* ### [GD07](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/07) - Object Detection
 * ### [GD08](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/08)
