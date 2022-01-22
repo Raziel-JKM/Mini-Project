@@ -7,8 +7,6 @@
 
 * ### Section 4 - [Predict Recommendations through Product Review Analysis](url)
 
-* ### Section 5 - 
-
 
 # ◇ Elice ◇
 * ### 반도체 공정 데이터를 활용한 공정 이상 예측
@@ -49,11 +47,11 @@
 
 # ◇ Going Deeper ◇ - CV focus
 
-* ### [EX01]
-* ### [EX01]
-* ### [EX01]
-* ### [EX01]
-* ### [EX01]
-* ### [EX01]
-* ### [EX01]
-* ### [EX01]
+* ### [GD01](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/01)
+* ### [GD02](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/02)
+* ### [GD03](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/03)
+* ### [GD04](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/04)
+* ### [GD05](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/05)
+* ### [GD06](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/06)
+* ### [GD07](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/07)
+* ### [GD08](https://github.com/Raziel-JKM/Practice/tree/main/GoingDeeper/08)
