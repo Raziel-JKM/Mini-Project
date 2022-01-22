@@ -27,24 +27,23 @@
 
 * ### [EX01](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX01) - Rock Scissor Paper
 * ### [EX02](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX02) - Breast Cancer / Digits / Wine
-* ### [EX03](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX03) - Face Sticker
-* ### [EX04](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX04) - lyricist
-* ### [EX05](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX05) - Find
-* ### [EX06](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX06) - 2019-ml-month-2nd-baseline.ipynb
-* ### [EX07](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX07) - Movie Review
-* ### [EX08](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX08) - Portrait
-* ### [EX09](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX09) - Movielens
-* ### [EX10](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX10) - News Summarization
-* ### [EX11](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX11) - Pneumoni
+* ### [EX03](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX03) - Make a camera sticker app
+* ### [EX04](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX04) - Lyrics make AI
+* ### [EX05](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX05) - Finding someone who looks like me
+* ### [EX06](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX06) - Kaggle competition.
+* ### [EX07](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX07) - Analysis of movie review text emotions
+* ### [EX08](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX08) - Let's make a portrait.
+* ### [EX09](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX09) - Find another artist
+* ### [EX10](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX10) - Making a news summary robot
+* ### [EX11](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX11) - Handling medical image data
 * ### [EX12](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX12) - SBR
 * ### [EX13](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX13) - DCGAN
-* ### EX14
-* ### EX15
-* ### EX16
-* ### EX17
-* ### EX18
-* ### EX19
-* ### EX20
+* ### [EX14](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX14) - 
+* ### [EX15](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX15) - 
+* ### [EX16](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX16) - 
+* ### [EX17](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX17) - 
+* ### [EX18](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX18) - 
+* ### [EX19](https://github.com/Raziel-JKM/Practice/tree/main/ai/EX19) - 
 
 
 
