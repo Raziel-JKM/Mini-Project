@@ -9,11 +9,11 @@
 
 
 # ◇ Elice ◇
-* ### 반도체 공정 데이터를 활용한 공정 이상 예측
+* ### [반도체 공정 데이터를 활용한 공정 이상 예측](https://github.com/Raziel-JKM/Mini-Project/tree/main/%EB%B0%98%EB%8F%84%EC%B2%B4%20%EA%B3%B5%EC%A0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B3%B5%EC%A0%95%20%EC%9D%B4%EC%83%81%20%EC%98%88%EC%B8%A1)
 
-* ### 유가 데이터 활용 주유소 분석
+* ### [유가 데이터 활용 주유소 분석](https://github.com/Raziel-JKM/Mini-Project/tree/main/%EC%9C%A0%EA%B0%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%A3%BC%EC%9C%A0%EC%86%8C%20%EB%B6%84%EC%84%9D)
 
-* ### 자동차 리콜 데이터 분석
+* ### [자동차 리콜 데이터 분석](https://github.com/Raziel-JKM/Mini-Project/tree/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%A6%AC%EC%BD%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 
 * ### 금융거래고객 신용위험예측
 
